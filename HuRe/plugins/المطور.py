@@ -47,7 +47,7 @@ async def amireallyalive(event):
         cat_caption = f"مطورين إكس\n"
         cat_caption += f"✛━━━━━━━━━━━━━✛\n"
         cat_caption += f"- المطور  : @DAD_E3DAM\n"
-        cat_caption += f"- المطور  : @E3_DM\n"
+        cat_caption += f"- المطور  : @R_V_U_2\n"
         cat_caption += f"✛━━━━━━━━━━━━━✛\n"
         await event.client.send_file(
             event.chat_id, PIC, caption=cat_caption, reply_to=reply_to_id
